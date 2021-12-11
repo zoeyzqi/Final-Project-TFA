@@ -6,6 +6,7 @@ A description of what has been implemented:
 
 Your group name and section:
     Ziqi Yao (sec 001, uni: zy2497)
+    Ting Lei (sec 001, uni: tl3101)
 
 A list containing the UNI for each member on the team
-    ['zy2497', ]
+    ['zy2497', 'tl3101']
